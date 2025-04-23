@@ -26,3 +26,7 @@ Thumbs.db
 *.pdf
 *.png
 *.jpg
+
+# Demo images
+!music_fragment.png
+!music_pdf.png
